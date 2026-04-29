@@ -55,7 +55,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>${lombok.version}</version>  <!-- ← explicit version -->
+			<version>${lombok.version}</version> 
 			<optional>true</optional>
 		</dependency>
 
